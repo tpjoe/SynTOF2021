@@ -1,11 +1,11 @@
 # SynTOF2021
-This repository contains code to replicate results from the paper titled "Single-synapse analysis of Alzheimer’s disease implicate pathologic tau, DJ1, CD47, and ApoE".
+##This repository contains code to replicate results from the paper titled "Single-synapse analysis of Alzheimer’s disease implicate pathologic tau, DJ1, CD47, and ApoE".  <br>
 
 
-The description of each folder is written below:
+##The description of each folder is written below:  <br>
 
 
-The description of the scripts:
+##The description of the scripts: <br>
 Note: All scripts are numbered in a sequential order to achieve the presented analyses
 
 * Script# 1.1-1.3: Bar plots and spider plots of the pseudo-bulk analysis (R and Python)
