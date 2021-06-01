@@ -2,9 +2,12 @@
 This repository contains code to replicate results from the paper titled "Single-synapse analysis of Alzheimer’s disease implicate pathologic tau, DJ1, CD47, and ApoE".
 
 
-The descriptions of each scripts and folders are written below:
+The description of each folder is written below:
 
-All scripts are numbered in a sequential order to achieve the presented analyses, these include:
+
+The description of the scripts:
+Note: All scripts are numbered in a sequential order to achieve the presented analyses
+
 * Script# 1.1-1.3: Bar plots and spider plots of the pseudo-bulk analysis (R and Python)
 * Script# 2: Converts the single-synapse data file format from .txt files to .fcs files (R)
 * Script# 3: Performs autoencoder clustering of the single synapse data (Python)
