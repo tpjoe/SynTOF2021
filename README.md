@@ -2,7 +2,7 @@
 ## This repository contains code to replicate results from the paper titled "Single-synapse analysis of Alzheimer’s disease implicate pathologic tau, DJ1, CD47, and ApoE".  <br>
 Synaptic molecular characterization is limited for Alzheimer’s disease (AD). We used mass cytometry to quantify 38 probes in approximately 17 million single synaptic events from human brains without pathologic change or with pure AD or Lewy body disease (LBD), non-human primates (NHP), and PS/APP mice. Synaptic molecular integrity in humans and NHP was similar. Although not detected in human synapses, Aβ was in PS/APP mice synaptic events. Clustering and pattern identification of human synapses showed expected disease-specific differences, like increased hippocampal pathologic tau in AD and reduced caudate dopamine transporter in LBD, and revealed novel findings including increased hippocampal CD47 and lowered DJ1 in AD and higher ApoE in AD dementia. Our results were supported by multiplex ion beam imaging of intact tissue.
 
-> Currently our manuscript is submitted to journal and is not published yet.
+> Currently our manuscript is submitted to a journal and is not published yet.
 
 The following codes allow replication of the results, but note that they require the original single synapse data, which currently can be obtained through contacting us at tpjoe_at_stanford.edu. We are working on uploading the data to a public repository.
 
