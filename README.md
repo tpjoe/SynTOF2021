@@ -8,9 +8,9 @@ The following codes allow replication of the results, but note that they require
 
 ## The description of each folder is written below:  <br>
 * Folder "rss_plots": Contains rss plots for optimal number of clusters during autoencoder clustering
-* Folder "R_py_exchange": Contains preprocessed data, mainly ..., in a csv format, so that it can be used either by R or python
+* Folder "R_py_exchange": Contains preprocessed data, mainly autoencoder clustering results and its hidden representation, in a csv format, so that it can be used by R for metaclustering and visualizations
 * Folder "df_pre_save": Contains the single synapse data after signal correction by subtracting signals that are known to be non-existent in post-synaptic events.
-* Folder "R_py_exchange_afterCluster": Contains preprocessed data, mainly ..., in a csv format, so that it can be used either by R or python
+* Folder "R_py_exchange_afterCluster": Contains preprocessed data, mainly conventional machine model results from python, in a csv format, so that it can be used by R for visualizations
 * Folder "figures": Contains generated figures
 
 ## The description of the scripts: <br>
